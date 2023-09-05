@@ -22,7 +22,7 @@ public class JPTV22MyFirstPro {
         String firstname = scanner.nextLine(); ;
         System.out.println("Write your lastname ");
         String lastname = scanner.nextLine(); ;
-        System.out.println("Hello " + firstname + " " + lastname  );
+        System.out.println("Hello " + firstname + " " + lastname);
     }
     
 }
